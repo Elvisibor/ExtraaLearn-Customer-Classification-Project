@@ -1,12 +1,11 @@
-# ExtraaLearn Customer Classification Project
+# ExtraaLearn Startup Potential Customers Prediction - A Classification Project
+# Author: Elvis Ibor
 
-# ExtraaLearn Startup Project
-# A Classification Project (Supervised Learning)
-# by Elvis Ibor, Data Scientist. 
-# Certified by MIT Schwarzman College of Computing
-# (To verify this certificate visit verify.mygreatlearning.com/MKKOWHSQ)
+#### Certification: MIT Schwarzman College of Computing
+#### (To verify this certificate visit verify.mygreatlearning.com/MKKOWHSQ)
 
-## Project Overview
+
+# Project Overview
 The goal of this project is to develop a machine learning model that predicts potential customers for ExtraaLearn, an educational technology (EdTech) startup. By leveraging advanced data analytics and machine learning techniques, we aim to identify individuals who are likely to become paying customers based on their demographics, behavior, and engagement with the platform.
 ________________________________________
 ## Introduction
