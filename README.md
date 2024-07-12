@@ -2,8 +2,8 @@
 
 # ExtraaLearn Startup Project
 # A Classification Project (Supervised Learning)
-# by Elvis Ibor, MIT Certified Data Scientist. 
-# MIT Schwarzman College of Computing
+# by Elvis Ibor, Data Scientist. 
+# Certified by MIT Schwarzman College of Computing
 # (To verify this certificate visit verify.mygreatlearning.com/MKKOWHSQ)
 
 ## Project Overview
